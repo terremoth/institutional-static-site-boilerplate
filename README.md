@@ -21,6 +21,8 @@ An Institutional static site boilerplate, including semantic, multilanguage supp
   - list
 - Contact us
   - Tel, email list, + a form to contact 
+- Technology
+- Sustainability
 
 ### Redirect links
 - Login
